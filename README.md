@@ -1,6 +1,7 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-## Ola, eu me chamo Mikael Santos, tenho 20 anos e sou desenvolvedor Front-End!
+ Ola, eu me chamo Mikael Santos, tenho 20 anos e sou desenvolvedor Front-End!
+ Estou estudando no momento React e NodeJs.
 <div align="center">
   <a href="https://github.com/MikaelSantos1">
 </div>
