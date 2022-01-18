@@ -1,8 +1,8 @@
 
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
- Ola, eu me chamo Mikael Santos, tenho 20 anos e sou desenvolvedor Front-End!E pretendo me tornar um Full-Stack.
- Estou estudando no momento React e NodeJs.
+ Ola, eu me chamo Mikael Santos, tenho 20 anos e sou desenvolvedor Full stack!
+ Estou estudando no momento React Native e NodeJs.
 <div align="center">
   <a href="https://github.com/MikaelSantos1">
 </div>
