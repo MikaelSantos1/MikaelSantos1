@@ -2,17 +2,17 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
  Ola, eu me chamo Mikael Santos, tenho 20 anos e sou desenvolvedor Full stack!
- 
+ <br><br/>
 <div align="center">
   <a href="https://github.com/MikaelSantos1">
 </div>
- 
+ <br><br/>
 <a href="https://github.com/MikaelSantos1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MikaelSantos1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelSantos1&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
- 
+ <br><br/>
   <div >
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="mikael-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
