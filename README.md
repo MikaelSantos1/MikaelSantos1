@@ -2,6 +2,7 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
  Ola, eu me chamo Mikael Santos, tenho 20 anos e sou desenvolvedor Full stack!
+ Tenho experiencia com projetos utilizando Javascript,ReactJS e NodeJS.
  <br><br/>
 <div align="center">
   <a href="https://github.com/MikaelSantos1">
