@@ -2,7 +2,7 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
  Ola, eu me chamo Mikael Santos, tenho 20 anos e sou desenvolvedor Full stack/Front end  </br>
- Tenho experiencia com projetos utilizando Javascript, ReactJS e NodeJS. Atualmente estou estudando no bootcamp Ignite da Rocketseat onde desenvolvo minhas habilidades nas tecnologias mais atuais do desenvolvimento web e mobile.
+ Tenho experiencia com projetos utilizando Javascript, ReactJS e NodeJS. 
  <br><br/>
 <div align="center">
   <a href="https://github.com/MikaelSantos1">
